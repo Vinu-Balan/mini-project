@@ -1,7 +1,5 @@
 # Accident Detection System
 
-**Last Updated: *7 June 2022***
-
 1. Demonstration
 2. What is Accident Detection System?
 3. Prerequisites
@@ -26,7 +24,7 @@ An accident Detection System is designed to detect accidents via video or CCTV f
 
 ### Clone this repository
 
-`https://github.com/krishrustagi/Accident-Detection-System.git`
+`https://github.com/Vinu-Balan/mini-project.git`
 
 To install all the packages required to run this python program
 `pip install -r requirements.txt`
